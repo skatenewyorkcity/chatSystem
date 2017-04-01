@@ -11,10 +11,10 @@ Chrome, Opera, IE etc.
 ```
 
 ### Installing
-You can download/clone this project and then open 'index.html' with a web browser OR follow the link below...
+You can download/clone this project and then open 'index.php' with a web browser OR follow the link below...
 
 ### Running the tests
-The Breakout game can be tested via the following link
+The chatSystem can be tested via the following link:
 
 [http://immutablehues.com/works/chatSystem/](http://immutablehues.com/works/chatSystem/)
 
