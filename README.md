@@ -18,7 +18,7 @@ The Breakout game can be tested via the following link
 
 [http://immutablehues.com/works/breakOutGame/](http://immutablehues.com/works/chatSystem/)
 
-![Preview Image](/chatSystemtImage.JPG)
+![Preview Image](/chatSystemImage.JPG)
 
 ### Built With
 [Visual Studio 2013](https://msdn.microsoft.com/en-us/library/dd831853(v=vs.120).aspx) - using HTML, Javascript, CSS, PHP & MYSQL
