@@ -16,7 +16,7 @@ You can download/clone this project and then open 'index.html' with a web browse
 ### Running the tests
 The Breakout game can be tested via the following link
 
-[http://immutablehues.com/works/breakOutGame/](http://immutablehues.com/works/chatSystem/)
+[http://immutablehues.com/works/chatSystem/](http://immutablehues.com/works/chatSystem/)
 
 ![Preview Image](/chatSystemImage.JPG)
 
